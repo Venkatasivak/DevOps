@@ -1,0 +1,2 @@
+DevOps ('Development and Operations')
+It is the combination of practices and tools designed to increse an orginization's ability to deliver applications and services faster than traditional software development processes.
